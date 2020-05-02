@@ -1,0 +1,20 @@
+{
+  "name": "opencvjstextreader",
+  "version": "1.0.0",
+  "description": "Text Reader with Opencv4nodejs",
+  "main": "camera.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@flatten-js/boolean-op": "^1.1.4",
+    "@flatten-js/core": "^1.2.4",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mathjs": "^6.6.4",
+    "opencv4nodejs": "^5.5.0",
+    "tesseract.js": "^2.1.1"
+  }
+}

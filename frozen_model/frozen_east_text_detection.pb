@@ -1,0 +1,1 @@
+/home/chieko/Projects/WSM_webapp/textdetect/model/frozen_east_text_detection.pb
