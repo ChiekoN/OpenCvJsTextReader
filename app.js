@@ -10,7 +10,8 @@ const bodyParser = require('body-parser');
 
 const td = require('./static/textdetection');
 
-const PORT = 5000;
+//const PORT = 5000;
+const PORT = 7822; // kinotowa
 
 /* To create an https server:
     https://nodejs.org/en/knowledge/HTTP/servers/how-to-create-a-HTTPS-server/
